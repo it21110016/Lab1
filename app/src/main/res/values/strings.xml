@@ -1,0 +1,35 @@
+<resources>
+    <string name="appName">StockApp</string>
+    <string name="btn1">View Stock</string>
+    <string name="txt1.1">Stock ID:</string>
+    <string name="txt1.2">Stock Name:</string>
+    <string name="txt2.1">Stock ID:</string>
+    <string name="txt2.2">Stock Name:</string>
+    <string name="txt3.1">Stock ID:</string>
+    <string name="txt3.2">Stock Name:</string>
+    <string name="txt4.1">Stock ID:</string>
+    <string name="txt4.2">Stock Name:</string>
+    <string name="btn2">Search Stock</string>
+    <string name="sd.txt1">Stock ID:</string>
+    <string name="sd.txt2">Stock Name:</string>
+    <string name="sd.txt3">Description</string>
+    <string name="sd.txt4">Current Stock:</string>
+    <string name="btn3">Add Stock</string>
+    <string name="btn4">Update Stock</string>
+    <string name="add.txt1">Stock ID:</string>
+    <string name="add.txt2">Stock Name:</string>
+    <string name="add.txt3">Current Quantity:</string>
+    <string name="add.txt4">Add Quantity:</string>
+    <string name="et.add.txt3">Enter Add Quantity:</string>
+    <string name="btn5">Modify</string>
+    <string name="add.txt5">New Quantity:</string>
+    <string name="update.txt1">Stock Name:</string>
+    <string name="et.update.txt1">Enter Stock Name:</string>
+    <string name="update.txt2">Stock ID:</string>
+    <string name="et.update.txt2">Enter Stock ID:</string>
+    <string name="update.txt3">Stock Quantity:</string>
+    <string name="et.update.txt3">Enter Stock Quantity:</string>
+    <string name="btn6">Modify</string>
+    <string name="btn7">Delete Stock</string>
+
+</resources>
